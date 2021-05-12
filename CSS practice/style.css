@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+
+p.red {
+    color: red;
+}
+
+p.blue {
+    color: blue;
+}
+
+p.green {
+    color: green;
+}
+
+p.big-font {
+    font-size: 50px;
+}
+
+p.tiny-font {
+    font-size: 10px;
+}
+
+p.centered2 {
+    text-align: center;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.sans-serif {
+    font-family: verdana, arial;
+}
+
+p.styledfont {
+    font-family: verdana, arial;
+}
+
+p.bigorangebold {
+    font-size: 35px;
+    font-weight: bold;
+    color: orange;
+}
+
+p.styledFont {
+    color: purple;
+    font-family: cursive;
+}
+
+img {
+    border: 10px; color: pink; border-style: dashed;
+}
